@@ -16,4 +16,8 @@ The purpose of Q-Learning is to learn a policy, which tells an agent what action
 To make a program that can learn I’m going to use a neural network.
 Neural networks are a technique for building computer programs that is loosely based on the way we think the human brain works. You start with a collection of software neurons. Each neuron in a brain has a bunch of inputs and one output. When enough electrical signals arrive at the inputs, the neuron will activate and send a signal out of the output.
 
-![Screenshot](dendrite.jpg)
+![Screenshot](dendrite.png)
+
+As in a brain, the intelligence in a neural network comes from how these neurons are connected together. This is the neural network example for a game like this.
+
+![Screenshot](neuralnetworkimg.png)
