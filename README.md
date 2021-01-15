@@ -11,3 +11,9 @@ https://github.com/cazala/synaptic
 
 ## Q Learning
 The purpose of Q-Learning is to learn a policy, which tells an agent what action to take under what circumstances. It does not require a model of the environment and can handle problems with several changes, as long as it has rewards.
+
+## A program that can learn
+To make a program that can learn I’m going to use a neural network.
+Neural networks are a technique for building computer programs that is loosely based on the way we think the human brain works. You start with a collection of software neurons. Each neuron in a brain has a bunch of inputs and one output. When enough electrical signals arrive at the inputs, the neuron will activate and send a signal out of the output.
+
+![Screenshot](dendrite.jpg)
